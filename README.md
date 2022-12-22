@@ -15,5 +15,5 @@ Flutter, Google Map API
 - Explored MAP APIs and It's concepts.
 
 <div>
-<img src="https://github.com/SuhaneeMavar/GoogleMapNearMeClone/blob/main/screenshots/App.png" width="284px" height="540">
+<img src="https://github.com/SuhaneeMavar/GoogleMapNearMeClone/blob/main/screenshots/App.png" width="100%" height="540">
 </div>
